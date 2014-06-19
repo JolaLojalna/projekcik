@@ -1,3 +1,4 @@
 int x = 20;
 string s= "Jan";
 string c="Janeczka";
+byte v = 23;
