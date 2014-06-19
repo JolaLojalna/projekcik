@@ -1,2 +1,3 @@
 int = 20;
-string = "Jan";
+string s= "Jan";
+string c="Janeczka";
